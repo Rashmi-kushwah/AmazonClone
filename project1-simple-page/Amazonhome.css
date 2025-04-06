@@ -6,7 +6,7 @@
         "Amazon Ember", Arial, sans-serif;
         color: #fff;
         background-color: #ebf0fc;
-    }
+    };
     .navbar {
       display: flex;
       background-color: #131921;
@@ -223,7 +223,7 @@ margin-top: -16%;
 
     
   /* Row  scroll container  */
-.container1 {
+  .container1 {
     display: flex;
     /* gap: 10px; */
 
@@ -232,13 +232,13 @@ margin-top: -16%;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     justify-content: center;
     background-color: #fff;
-   margin: 0 20px;
+    margin: 0 20px;
 
-}
-.product_container{
-    display: flex;
-    overflow-x: auto;
-}    
+  }
+  .product_container{
+      display: flex;
+      overflow-x: auto;
+  }    
 
 .topdeals{
   text-align: left;
@@ -356,21 +356,21 @@ padding-left: 20px;
 
           }
       .footer-bottom {
-  margin-top: 20px;
-  background-color: #131A22; 
-  color: #ffffff;
-  padding: 10px 0; 
-  text-align: center;
-   margin: 0;
-}
+        margin-top: 20px;
+        background-color: #131A22; 
+        color: #ffffff;
+        padding: 10px 0; 
+        text-align: center;
+        margin: 0;
+      }
 
-.footer-bottom a {
-  color: #ddd;
-  margin: 0 10px;
-  text-decoration: none;
-  font-size: 12px;
-  font-weight: 800;
-}
+      .footer-bottom a {
+        color: #ddd;
+        margin: 0 10px;
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 800;
+      }
 
 .footer-bottom a:hover {
   text-decoration: underline;
